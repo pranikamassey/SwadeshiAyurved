@@ -1,0 +1,38 @@
+This is to request bibles.
+
+Dear Sir,
+Praise the Lord
+
+I am Sandeep Massey .... of King of Kings Jesus Ministry. Our Ministry is a
+ growing ministry and we wish to spread the word of god and thus require around
+100 bibles for the same. We need bibles to give to newly baptized believers 
+nd.... free of cost
+This is to request you for the bibles for distribution. Please inform me how to 
+proceed and what cost will I have to send in for this.
+
+
+Please support us in this respect in the name of Jesus
+
+
+
+
+Points
+-prayer rqsts
+-videos/Weekly Sermons/Watch now
+-about us/mission
+-fb youtube sidebar
+-pictures
+*wednesday
+-contact us
+-events
+-next event timer
+
+
+-navbar{about us..watch now..prayer rqst..events..contact us}
+-video carousel flscrn(logointro, p bhu, wednsdy)
+-Our mission
+-two parts(weekly sermon and prayer request)
+-wnsdy poster z=-1
+Footer{address..number..icons.. map}
+
+-fb nd youtube
